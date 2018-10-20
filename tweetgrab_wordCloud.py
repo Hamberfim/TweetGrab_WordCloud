@@ -22,6 +22,7 @@ stopwords.add("need")
 stopwords.add("terms")
 stopwords.add("pay")
 stopwords.add("value")
+stopwords.add("status")
 # ---- * Scrape A Tweet * ----
 # choose twitter user
 tUser = input("Enter Twitter user without the '@': ")
