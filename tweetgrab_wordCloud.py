@@ -16,6 +16,12 @@ stopwords.add("twitter")
 stopwords.add("http")
 stopwords.add("https")
 stopwords.add("ly")
+stopwords.add("one")
+stopwords.add("us")
+stopwords.add("need")
+stopwords.add("terms")
+stopwords.add("pay")
+stopwords.add("value")
 # ---- * Scrape A Tweet * ----
 # choose twitter user
 tUser = input("Enter Twitter user without the '@': ")
@@ -102,10 +108,9 @@ cln_words = [s.strip("' ") for s in cln_words]
 long_lst = " ".join(cln_words)
 
 # Generate a word cloud image
-wordcloud = WordCloud(background_color="white",
-                      colormap="Reds",
-                      stopwords=stopwords,
-                      random_state=68).generate(long_lst)
+wordcloud = WordCloud(background_color="gold",
+                      colormap="Set1",
+                      stopwords=stopwords).generate(long_lst)
 
 # Display the generated image:
 plt.imshow(wordcloud, interpolation='bilinear')
