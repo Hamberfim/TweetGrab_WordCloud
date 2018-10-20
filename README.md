@@ -1,12 +1,14 @@
 # TweetGrab - WordCloud
-![WordCloud](https://github.com/Hamberfim/TweetGrab_WordCloud/blob/master/DalaiLamaJupt.png)
--DalaiLama's Twitter Posts - Used TweetGrab -Jupyter Notebook- WordCloud- 10/19/18
-
 ### Simple proof of concept.
 Run the script, enter the twitter name without the '@' symbol and the script will scrape a few tweets from the user's feed and convert them to a wordcloud.
 <br/><br/>
 Thanks to [Andreas Mueller](http://amueller.github.io/) for word cloud generator in Python.
 https://github.com/amueller/word_cloud
+
+
+![WordCloud](https://github.com/Hamberfim/TweetGrab_WordCloud/blob/master/DalaiLamaJupt.png)
+-DalaiLama's Twitter Posts - Used TweetGrab -Jupyter Notebook- WordCloud- 10/19/18
+
 
 ### Comparison
 ![WordCloud](https://github.com/Hamberfim/TweetGrab_WordCloud/blob/master/DalaiLama.png)
