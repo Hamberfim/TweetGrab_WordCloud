@@ -1,4 +1,4 @@
-TweetGrab - WordCloud
+# TweetGrab - WordCloud
 ### Work in progress. Not the prefered way to access content on twitter. 
 
 
@@ -10,6 +10,5 @@ https://github.com/amueller/word_cloud
 
 ## Licensing
 The wordcloud library is MIT licenced by [Andreas Mueller](http://amueller.github.io/), but contains DroidSansMono.ttf, a true type font by Google, that is apache licensed. Ownership/Licensing reside with the respective owners and by extention my included "TweetGrab" code is MIT licenced.
-
-<br/><br/>
+<br/>
 WARNING: Use at your own risk! I assume NO responsibility if you get blacklisted/blocked. Excessive and agressive use of this script is NOT endorced. It is strickly for educational purposes.
