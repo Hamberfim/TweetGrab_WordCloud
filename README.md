@@ -6,7 +6,7 @@ I was interested in the process of capturing some snapshot data from a site, cle
 Of the things I learned, there are several major takeaways:
 
 1. While data availability is ubiquitous, the majority of it is not in an ingestible format.
-2. For data cleaning/wrangling/preperation to be efficient and successful, an end vision of the output has to be envisioned but also flexible because not every visualization communicates what the data is saying.
+2. For data cleaning/wrangling/preperation to be efficient and successful, an end vision of the output has to be envisioned but also be flexible because not every visualization communicates what the data is saying.
 3. Data wrangling, i.e., finding, capturing, cleaning and preperation for use is the lions share in Data Science. Adaptable skills, efficiency and the ability to find relevant data are going to be strengths.
 4. It's very possilbe that Data Wrangling could be a career in and of itself without ever really becoming a full "Data Scientist"...but that could get a little old.
 
