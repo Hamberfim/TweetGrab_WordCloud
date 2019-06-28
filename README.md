@@ -1,7 +1,7 @@
 # TweetGrab - WordCloud
 
 ### This quick project is about data wrangling and not necessarily about visualization.
-I was interested in the process of capturing some snapshot data from a site, cleaning/extracting it from the dross and gettng it into a useful form.
+I was interested in the process of capturing some snapshot data from a site, cleaning/extracting it from the dross and getting it into a useful form.
 
 Of the things I learned, there are several major takeaways:
 
